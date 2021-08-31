@@ -1,0 +1,14 @@
+go-tempconv
+===========
+
+Converting temperatures.
+This is mostly just a random, not best practices Golang.
+
+- Celsius
+- Fahrenheit
+- Kelvin
+- Réaumur
+- Rankine
+- Delisle
+- Newton
+- Rømer
